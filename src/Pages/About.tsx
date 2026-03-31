@@ -6,10 +6,8 @@ export function About() {
             <div>
                 <h1 className="text-teal-600 text-3xl p-4">About me</h1>
 
-                <p>
-
-                </p>
-
+                <img src="https://vercel.app"
+                     alt="GitHub Statistikk for Ola Nordmann" />
 
             </div>
         </>
