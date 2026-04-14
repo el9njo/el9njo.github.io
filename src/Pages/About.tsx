@@ -12,6 +12,7 @@ export function About() {
                         theme={{
                             dark: ["#3d3d3d", "#134e4a", "#0d9488", "#14b8a6", "#5eead4"]
                         }}
+                        showWeekdayLabels = {true}
                     />
                 </div>
 
